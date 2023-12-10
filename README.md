@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **JavaScript**
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **JavaScript and API's**
 
 - 👨‍💻 All of my projects are available at [https://github.com/topcowmoo](https://github.com/topcowmoo)
 
