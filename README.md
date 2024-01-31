@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topcowmoo" alt="topcowmoo" /></a> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **Node.js**
 
-- 🌱 I’m currently learning **JavaScript and API's**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/topcowmoo](https://github.com/topcowmoo)
 
