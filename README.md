@@ -17,10 +17,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>   
+</p>   https://github.com/tandpfun/skill-icons/blob/main/icons/Heroku.svg
+https://github.com/tandpfun/skill-icons/blob/main/icons/Sequelize-Light.svg
+https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg
+file:///Users/sm/Downloads/insomnia-svgrepo-com.svg
+file:///Users/sm/Downloads/eslint%20(1).svg
+file:///Users/sm/Downloads/file-type-handlebars2.svg
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
+<code><img width="50" src="https://Users/sm/Downloads/insomnia-svgrepo-com.svg" alt="Insomnia" title="Insomnia"/></code>
 <code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" title="MySQL"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="Node.js" title="Node.js"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
