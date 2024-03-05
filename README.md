@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Node.js**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js** **MVC** **MySQL** **Sequelize**
 
 - 👨‍💻 All of my projects are available at [https://github.com/topcowmoo](https://github.com/topcowmoo)
 
