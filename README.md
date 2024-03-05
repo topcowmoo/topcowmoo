@@ -17,10 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-</p>
+</p>   
 
 <h3 align="left">Languages and Tools:</h3>
 <div align="center">
+<code><img width="50" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" alt="MySQL" title="MySQL"/></code>
 <code><img width="50" src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/1ac69ce5fbc389725f16f989fa53c62d6e1b4883/frameworks/nodejs.svg" alt="Node.js" title="Node.js"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 <code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" alt="GitHub" title="GitHub"/></code>
