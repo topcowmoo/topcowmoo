@@ -26,6 +26,8 @@
 [![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,figma,vscode,git,github,gitlab,githubactions&theme=light&perline=8)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=heroku,sass,svg,apple,md,postman,nextjs,gatsby&theme=light&perline=8)](https://skillicons.dev)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topcowmoo&show_icons=true&locale=en" alt="topcowmoo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topcowmoo&" alt="topcowmoo" /></p>
