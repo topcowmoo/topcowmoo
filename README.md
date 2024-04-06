@@ -25,7 +25,7 @@
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,python,django,express,mongodb,mongoose,mysql,sequelize,jest,gnubash,iterm2,pwa,markdown&perline=50&theme=light)](#)
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=npm,webpack,babel,dotenv,codemirror,lighthouse,prettier,eslint,visualstudiocode,sublimetext,apple,xcode,swift&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=npm,webpack,babel,dotenv,codemirror,lighthouse,prettier,eslint,visualstudiocode,sublimetext,xcode,swift,typescript&perline=50&theme=light)](#)
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,insomnia,postman,heroku,render,figma,svg,codepen&perline=50&theme=light)](#)
 
