@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Node.js**
 
-- 🌱 I’m currently learning **Node.js** **MVC** **MySQL** **Sequelize**
+- 🌱 I’m currently learning **React** **MERN**
 
 - 👨‍💻 All of my projects are available at [https://github.com/topcowmoo](https://github.com/topcowmoo)
 
@@ -21,10 +21,14 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=jest,mysql,sequelize,regex,mongodb,react,express,sublime&theme=light&perline=8)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,npm,nodejs,py,django,jquery&theme=light&perline=8)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bootstrap,tailwind,figma,vscode,git,github,gitlab,githubactions&theme=light&perline=8)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=heroku,sass,svg,apple,md,postman,nextjs,gatsby&theme=light&perline=8)](https://skillicons.dev)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=HTML5,CSS3,JavaScript,jQuery,React,vite,reactrouter,Next.js,nodemon,Gatsby,TailwindCSS,Bootstrap,sass&perline=50&theme=light)](#)
+
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,python,django,express,mongodb,mongoose,mysql,sequelize,jest,gnubash,iterm2,pwa,markdown&perline=50&theme=light)](#)
+
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=npm,webpack,babel,dotenv,codemirror,lighthouse,prettier,eslint,visualstudiocode,sublimetext,apple,xcode,swift&perline=50&theme=light)](#)
+
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,insomnia,postman,heroku,render,figma,svg,codepen&perline=50&theme=light)](#)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
 
