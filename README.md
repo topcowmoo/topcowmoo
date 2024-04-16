@@ -21,13 +21,13 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=HTML5,CSS3,JavaScript,jQuery,React,vite,reactrouter,Next.js,nodemon,Gatsby,TailwindCSS,Bootstrap,sass&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=HTML5,CSS3,JavaScript,jQuery,React,vite,vitest,reactrouter,Next.js,nodemon,Gatsby,TailwindCSS,Bootstrap,sass&perline=50&theme=light)](#)
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,python,django,express,mongodb,mongoose,mysql,sequelize,jest,gnubash,iterm2,pwa,markdown&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,python,django,express,mongodb,mongoose,mysql,sequelize,jest,gnubash,iterm2,pwa,markdown,graphql,apollographql&perline=50&theme=light)](#)
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=npm,webpack,babel,dotenv,codemirror,lighthouse,prettier,eslint,visualstudiocode,sublimetext,xcode,swift,typescript&perline=50&theme=light)](#)
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,insomnia,postman,heroku,render,figma,svg,codepen&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,insomnia,postman,netlify,heroku,render,figma,svg,codepen&perline=50&theme=light)](#)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
