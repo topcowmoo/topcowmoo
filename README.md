@@ -27,9 +27,7 @@
 
 **Backend**
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,express,mongodb,mongoose,mysql,sequelize,jest,gnubash,iterm2,markdown,graphql,apollographql&perline=50&theme=light)](#)
-
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=npm,babel,dotenv,codemirror,prettier,eslint,swift,stripe&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,express,mongodb,mongoose,mysql,sequelize,jest,gnubash,iterm2,markdown,graphql,apollographql,npm,babel,dotenv,codemirror,prettier,eslint,swift,stripe&perline=50&theme=light)](#)
 
 **Tools**
 
