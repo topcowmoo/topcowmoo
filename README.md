@@ -23,17 +23,17 @@
 
 **Frontend**
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=HTML5,CSS3,JavaScript,jQuery,React,vite,vitest,reactrouter,Next.js,nodemon,TailwindCSS,Bootstrap&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=HTML5,CSS3,JavaScript,jQuery,React,vite,vitest,reactrouter,TailwindCSS,Bootstrap,webpack,pwa,jsonwebtokens,redux,handlebarsdotjs&perline=50&theme=light)](#)
 
 **Backend**
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,express,mongodb,mongoose,mysql,sequelize,jest,gnubash,iterm2,pwa,markdown,graphql,apollographql&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,express,mongodb,mongoose,mysql,sequelize,jest,gnubash,iterm2,markdown,graphql,apollographql&perline=50&theme=light)](#)
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=npm,webpack,babel,dotenv,codemirror,lighthouse,prettier,eslint,visualstudiocode,sublimetext,xcode,swift,typescript&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=npm,babel,dotenv,codemirror,prettier,eslint,swift,stripe&perline=50&theme=light)](#)
 
 **Tools**
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,insomnia,postman,netlify,heroku,render,figma,svg,codepen&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,nodemon,lighthouse,insomnia,postman,netlify,heroku,render,figma,frontendmentor,svg,codepen,visualstudiocode,sublimetext,xcode&perline=50&theme=light)](#)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=false)
