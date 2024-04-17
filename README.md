@@ -23,11 +23,11 @@
 
 **Frontend**
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=HTML5,CSS3,JavaScript,jQuery,React,vite,vitest,reactrouter,TailwindCSS,Bootstrap,webpack,pwa,jsonwebtokens,redux,handlebarsdotjs&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=HTML5,CSS3,JavaScript,jQuery,React,vite,vitest,reactrouter,TailwindCSS,Bootstrap,npm,webpack,pwa,jsonwebtokens,typescript,redux,handlebarsdotjs&perline=50&theme=light)](#)
 
 **Backend**
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,express,mongodb,mongoose,mysql,sequelize,jest,gnubash,iterm2,markdown,graphql,apollographql,npm,babel,dotenv,codemirror,prettier,eslint,swift,stripe&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=nodedotjs,express,mongodb,mongoose,mysql,sequelize,jest,gnubash,iterm2,markdown,graphql,apollographql,babel,dotenv,codemirror,prettier,eslint,swift,stripe&perline=50&theme=light)](#)
 
 **Tools**
 
