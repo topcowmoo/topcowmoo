@@ -23,7 +23,7 @@
 
 **Frontend**
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=HTML5,CSS3,JavaScript,jQuery,React,vite,vitest,reactrouter,TailwindCSS,Bootstrap,npm,webpack,pwa,jsonwebtokens,typescript,redux,handlebarsdotjs&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=JavaScript,HTML5,CSS3,React,vite,vitest,reactrouter,jQuery,TailwindCSS,Bootstrap,npm,webpack,pwa,bulma,jsonwebtokens,typescript,redux,handlebarsdotjs&perline=50&theme=light)](#)
 
 **Backend**
 
