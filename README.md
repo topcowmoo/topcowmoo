@@ -6,9 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topcowmoo&theme=nord" alt="topcowmoo" /></a> </p>
 
 
-
 - 🔭 I’m currently working on **full-stack MERN single page applications**
-
 
 - 🌱 I’m currently learning **React** **MERN** **State**
 
@@ -34,6 +32,7 @@
 
 **Frontend**
 
+
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=JavaScript,HTML5,CSS3,React,vite,vitest,reactrouter,jQuery,TailwindCSS,Bootstrap,npm,webpack,pwa,bulma,jsonwebtokens,typescript,redux,handlebarsdotjs&perline=50&theme=light)](#)
 
 **Backend**
@@ -44,8 +43,10 @@
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,nodemon,lighthouse,insomnia,postman,netlify,heroku,render,figma,frontendmentor,svg,codepen,visualstudiocode,sublimetext,xcode&perline=50&theme=light)](#)
 
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=topcowmoo)](https://github.com/topcowmoo/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=nord)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topcowmoo&theme=nord)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topcowmoo&show_icons=true&locale=en&theme=nord" alt="topcowmoo" /></p>
