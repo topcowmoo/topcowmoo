@@ -43,13 +43,19 @@
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,nodemon,lighthouse,insomnia,postman,netlify,heroku,render,figma,frontendmentor,svg,codepen,visualstudiocode,sublimetext,xcode&perline=50&theme=light)](#)
 
+**WakaTime Stats (Last 7 days)**
+
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=topcowmoo&range=7_days)](https://github.com/topcowmoo/github-readme-stats)
 
+**Languages**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topcowmoo&theme=nord)
 
+**Stats**
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=topcowmoo&show_icons=true&locale=en&theme=nord" alt="topcowmoo" /></p>
+
+**Streaks**
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topcowmoo&theme=nord" alt="topcowmoo" /></p>
 
