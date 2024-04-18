@@ -43,7 +43,7 @@
 
 [![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,nodemon,lighthouse,insomnia,postman,netlify,heroku,render,figma,frontendmentor,svg,codepen,visualstudiocode,sublimetext,xcode&perline=50&theme=light)](#)
 
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=topcowmoo&range=all_time)](https://github.com/topcowmoo/github-readme-stats)
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=topcowmoo&range=7_days)](https://github.com/topcowmoo/github-readme-stats)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=topcowmoo&theme=nord)
