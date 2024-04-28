@@ -59,7 +59,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=topcowmoo&theme=nord" alt="topcowmoo" /></p>
 
-![beatnoback](https://github.com/topcowmoo/topcowmoo/assets/149528212/11ab1497-e3a4-40e1-8d87-cff636a619ef) {width=100px height=auto style="display: inline-block;"}
+<img src="https://github.com/topcowmoo/topcowmoo/assets/149528212/11ab1497-e3a4-40e1-8d87-cff636a619ef" alt="beatnoback" style="display: inline-block; width: 25px; height: auto;">
 
 <!---
 topcowmoo/topcowmoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
