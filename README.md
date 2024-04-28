@@ -6,9 +6,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=topcowmoo&theme=nord" alt="topcowmoo" /></a> </p>
 
 
-- 🔭 I’m currently working on **full-stack MERN single page applications**
+- 🔭 I’m currently working on **MERN single page applications**
 
-- 🌱 I’m currently learning **React** **MERN** **State**
+- 🌱 I’m currently learning **React,** **MERN,** **State**
 
 - 👨‍💻 All of my projects are available at [https://github.com/topcowmoo](https://github.com/topcowmoo)
 
@@ -21,10 +21,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="mailto:mammoliti.sam@gmail.com" target="_blank">
-        <img src="https://simpleskill.icons.workers.dev/svg?i=gmail&perline=50&theme=light" alt="Gmail icon">
+        <img src="https://simpleskill.icons.workers.dev/svg?i=gmail&perline=50&theme=light" alt="Gmail icon" width="30" height="30">
     </a>: <a href="mailto:mammoliti.sam@gmail.com" target="_blank">mammoliti.sam@gmail.com</a><br>
     <a href="https://www.linkedin.com/in/salvatore-mammoliti-694b6b28b" target="_blank">
-        <img src="https://simpleskill.icons.workers.dev/svg?i=linkedin&perline=50&theme=light" alt="LinkedIn icon">
+        <img src="https://simpleskill.icons.workers.dev/svg?i=linkedin&perline=50&theme=light" alt="LinkedIn icon" width="30" height="30">
     </a>: <a href="https://www.linkedin.com/in/salvatore-mammoliti-694b6b28b" target="_blank">Salvatore Mammoliti</a><br>
 </p>
 
