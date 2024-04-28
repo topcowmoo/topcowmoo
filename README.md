@@ -14,7 +14,9 @@
 
 - 📫 How to reach me **mammoliti.sam@gmail.com**
 
-- ⚡ Fun fact **I have 4 children, 1 wife, 1 dog and 3 cats!** <img src="https://github.com/topcowmoo/topcowmoo/assets/149528212/11ab1497-e3a4-40e1-8d87-cff636a619ef" alt="beatnoback" style="width: 75px; height: auto;">
+- ⚡ Fun fact **I have 4 children, 1 wife, 1 dog and 3 cats!**
+
+- <img src="https://github.com/topcowmoo/topcowmoo/assets/149528212/11ab1497-e3a4-40e1-8d87-cff636a619ef" alt="beatnoback" style="width: 90px; height: auto;">
 
 
 
