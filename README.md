@@ -22,10 +22,10 @@
 <p align="left">
     <a href="mailto:mammoliti.sam@gmail.com" target="_blank">
         <img src="https://simpleskill.icons.workers.dev/svg?i=gmail&perline=50&theme=light" alt="Gmail icon" width="30" height="30">
-    </a> <a href="mailto:mammoliti.sam@gmail.com" target="_blank">mammoliti.sam@gmail.com</a><br>
+    </a> <a href="mailto:mammoliti.sam@gmail.com" target="_blank" style="text-decoration: none;">mammoliti.sam@gmail.com</a><br>
     <a href="https://www.linkedin.com/in/salvatore-mammoliti-694b6b28b" target="_blank">
         <img src="https://simpleskill.icons.workers.dev/svg?i=linkedin&perline=50&theme=light" alt="LinkedIn icon" width="30" height="30">
-    </a> <a href="https://www.linkedin.com/in/salvatore-mammoliti-694b6b28b" target="_blank">Salvatore Mammoliti</a><br>
+    </a> <a href="https://www.linkedin.com/in/salvatore-mammoliti-694b6b28b" target="_blank" style="text-decoration: none;">Salvatore Mammoliti</a><br>
 </p>
 
 
