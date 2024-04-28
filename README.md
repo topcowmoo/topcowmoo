@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **mammoliti.sam@gmail.com**
 
-- ⚡ Fun fact **I have 4 children, 1 wife, 1 dog and 3 cats!** **&#x2665;M**
+- ⚡ Fun fact **I have 4 children, 1 wife, 1 dog and 3 cats!** **💗;M**
 
 
 
