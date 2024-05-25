@@ -42,7 +42,7 @@
 
 **Tools**
 
-[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,nodemon,lighthouse,insomnia,postman,netlify,heroku,render,figma,frontendmentor,svg,codepen,visualstudiocode,sublimetext,xcode&perline=50&theme=light)](#)
+[![My Skills](https://simpleskill.icons.workers.dev/svg?i=git,github,gitlab,githubactions,githubpages,githubcopilot,nodemon,lighthouse,insomnia,postman,netlify,heroku,render,figma,frontendmentor,svg,amazons3,visualstudiocode,sublimetext,xcode&perline=50&theme=light)](#)
 
 **WakaTime Stats (Last 7 days)**
 
