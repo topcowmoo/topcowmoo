@@ -8,8 +8,6 @@
 
 - 🔭 I’m currently working on **MERN single page applications**
 
-- 🌱 I’m currently learning **React,** **MERN,** **State**
-
 - 👨‍💻 All of my projects are available at [https://github.com/topcowmoo](https://github.com/topcowmoo)
 
 - 📫 How to reach me **mammoliti.sam@gmail.com**
